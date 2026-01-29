@@ -1,0 +1,27 @@
+{
+"secondaryBrandColor":"#ffb300",
+"primaryBrandColor":"#000000",
+"buttonColor":"#ffb300",
+"buttonTextColor":"#000000",
+"logo":"https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/vcu.png",
+"schoolFullAddress":"807 Cathedral Place, 807 S Cathedral Pl, Richmond, VA 23220",
+"partner_id":"0014T00000ZzMZgQAN",
+"programName":"VCU Global Career Accelerator",
+"abbreviation":"VCU",
+"activeStartDates":"January 12, 2026",
+"phone":"(804) 825-2651"
+}
+
+{
+"secondaryBrandColor":"#C1A875",
+"primaryBrandColor":"#592C88",
+"buttonColor":"#592C88",
+"buttonTextColor":"#FFFFFF",
+"logo":"WCU-color-logo.png",
+"schoolFullAddress":"1 University Drive, Cullowhee, NC",
+"partner_id":"001Rd000008Zf0TIAS",
+"programName":"WCU Global Career Accelerator",
+"abbreviation":"WCU",
+"activeStartDates":"January 12, 2026",
+"phone":"(828) 229-5890"
+}
